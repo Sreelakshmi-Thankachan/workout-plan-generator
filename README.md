@@ -35,7 +35,7 @@ returns a day-by-day plan with exercises, sets, reps and rest times.
 
 1. Clone the repo and open the folder:
    ```
-   git clone https://github.com/YOUR_USERNAME/workout-plan-generator.git
+   git clone https://github.com/Sreelakshmi-Thankachan/workout-plan-generator.git
    cd workout-plan-generator
    ```
 2. Create and activate a virtual environment (Windows):
@@ -93,4 +93,4 @@ I tested the app with different inputs and improved the prompt step by step.
 
 - General fitness guidance only, not medical advice.
 - AI output can still occasionally break a rule, so users should review the plan before following it.
-- [Add anything else you noticed]
+
